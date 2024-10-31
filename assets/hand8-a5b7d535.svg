@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #050505;
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1673.563" y1="216.969" x2="1751.157" y2="3.781" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06db62"/>
+      <stop offset="1" stop-color="#1bfda9"/>
+    </linearGradient>
+  </defs>
+  <g id="画板_8" data-name="画板 8">
+    <g id="组_12_拷贝_2" data-name="组 12 拷贝 2">
+      <path id="圆角矩形_2_拷贝_11" data-name="圆角矩形 2 拷贝 11" class="cls-1" d="M1811.62,97.893S1794.51,115,1785.31,124.2c-4.13,5.035-5.7,11.727-5.7,17.272V160.3a56.66,56.66,0,1,1-113.32,0s0.01-9.017-5.28-14.46l-47.95-47.949a16.559,16.559,0,0,1,23.42-23.417l23.89,23.9c3.19,2.96,5.55,2.635,8.49.385a16.555,16.555,0,0,1,21.23-7.143c2.51,1.355,4.94.087,6.88-2.534a16.551,16.551,0,0,1,24.75-5.957c2.86,1.753,5.11,1.16,5.11-2.822V20.331a16.555,16.555,0,1,1,33.11,0V88.908c0,8.359,3.78,9.6,7.35,6.476s20.91-20.909,20.91-20.909A16.559,16.559,0,0,1,1811.62,97.893Z" transform="translate(-1600)"/>
+      <circle id="椭圆_1_拷贝_8" data-name="椭圆 1 拷贝 8" class="cls-2" cx="139.5" cy="146.328" r="2.84"/>
+      <path id="椭圆_1_拷贝_8-2" data-name="椭圆 1 拷贝 8" class="cls-3" d="M1719.85,143.5a2.827,2.827,0,1,1-2.85,2.827A2.833,2.833,0,0,1,1719.85,143.5Z" transform="translate(-1600)"/>
+      <path id="形状_2_拷贝_2" data-name="形状 2 拷贝 2" class="cls-4" d="M1734.11,163.9c-3.93,1.855-8.2.5-10.43-4.479" transform="translate(-1600)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="45px" height="37px" viewBox="0 0 45 37" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 6@2x</title>
+    <g id="手机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="home-mobile" transform="translate(-645.000000, -223.000000)" stroke="#000000" stroke-width="4">
+            <g id="编组-4" transform="translate(-1.000000, 194.000000)">
+                <g id="编组-6" transform="translate(647.000000, 30.000000)">
+                    <line x1="1.34375" y1="1.5" x2="41.65625" y2="1.5" id="直线-3"></line>
+                    <line x1="1.34375" y1="17.5" x2="41.65625" y2="17.5" id="直线-3"></line>
+                    <line x1="1.34375" y1="33.5" x2="41.65625" y2="33.5" id="直线-3"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

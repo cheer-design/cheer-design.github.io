@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="460px" viewBox="0 0 552 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Resilience</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="552" height="460"></rect>
+        <linearGradient x1="40.6829233%" y1="100%" x2="40.6829233%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#6C8FFF" offset="0%"></stop>
+            <stop stop-color="#19ACFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.6989728%" y1="0%" x2="16.6989728%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FF9C00" offset="0%"></stop>
+            <stop stop-color="#FE5F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.6989728%" y1="0%" x2="16.6989728%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#87FFD3" offset="0%"></stop>
+            <stop stop-color="#03DB64" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="49.7941497%" y2="96.0335769%" id="linearGradient-6">
+            <stop stop-color="#FFEB5E" offset="0%"></stop>
+            <stop stop-color="#FFC400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.6829233%" y1="100%" x2="40.6829233%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#6C8FFF" offset="0%"></stop>
+            <stop stop-color="#19ACFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.6829233%" y1="100%" x2="40.6829233%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#6C8FFF" offset="0%"></stop>
+            <stop stop-color="#19ACFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.6989728%" y1="0%" x2="16.6989728%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FF9C00" offset="0%"></stop>
+            <stop stop-color="#FE5F00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="手机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="works-mobile" transform="translate(-99.000000, -1622.000000)">
+            <g id="Resilience" transform="translate(99.000000, 1622.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="矩形备份-14"></g>
+                <g id="编组-4" mask="url(#mask-2)">
+                    <g transform="translate(72.316832, 32.200000)">
+                        <path d="M316.318518,207.776068 L392.640525,251.840599 C395.115734,253.269661 396.640525,255.910677 396.640525,258.768802 L396.640525,346.897865 C396.640525,349.755989 395.115734,352.397005 392.640525,353.826068 L316.318518,397.890599 C313.84331,399.319661 310.793727,399.319661 308.318518,397.890599 L231.996512,353.826068 C229.521303,352.397005 227.996512,349.755989 227.996512,346.897865 L227.996512,258.768802 C227.996512,255.910677 229.521303,253.269661 231.996512,251.840599 L308.318518,207.776068 C310.793727,206.347005 313.84331,206.347005 316.318518,207.776068 Z" id="多边形备份-4" fill="url(#linearGradient-3)" transform="translate(312.318518, 302.833333) rotate(-330.000000) translate(-312.318518, -302.833333) "></path>
+                        <path d="M112.147158,52.1333333 C107.279285,52.1333333 103.530183,56.3822256 104.067897,61.2189467 C108.58497,101.825191 143.02172,133.4 184.832065,133.4 C226.642411,133.4 261.079161,101.825191 265.596233,61.2189467 C266.133947,56.3822256 262.384845,52.1333333 257.516972,52.1333333 L112.147158,52.1333333 Z" id="Fill-1" fill="url(#linearGradient-4)"></path>
+                        <path d="M112.147158,133.4 C107.279285,133.4 103.530183,137.648892 104.067897,142.485613 C108.58497,183.091858 143.02172,214.666667 184.832065,214.666667 C226.642411,214.666667 261.079161,183.091858 265.596233,142.485613 C266.133947,137.648892 262.384845,133.4 257.516972,133.4 L112.147158,133.4 Z" id="Fill-1备份-3" fill="url(#linearGradient-5)"></path>
+                        <circle id="椭圆形备份-6" fill="url(#linearGradient-6)" cx="185.283168" cy="237.666667" r="21.4666667"></circle>
+                        <circle id="椭圆形备份-7" fill="url(#linearGradient-7)" style="mix-blend-mode: multiply;" cx="186.816501" cy="26.0666667" r="26.0666667"></circle>
+                        <path d="M51.6221684,234.7759 L64.4221684,234.7759 C71.0495854,234.7759 76.4221684,240.148483 76.4221684,246.7759 L76.4221684,386.842566 C76.4221684,393.469983 71.0495854,398.842566 64.4221684,398.842566 L51.6221684,398.842566 C44.9947514,398.842566 39.6221684,393.469983 39.6221684,386.842566 L39.6221684,246.7759 C39.6221684,240.148483 44.9947514,234.7759 51.6221684,234.7759 Z" id="矩形备份-18" fill="url(#linearGradient-8)" transform="translate(58.022168, 316.809233) scale(-1, 1) rotate(-391.000000) translate(-58.022168, -316.809233) "></path>
+                        <path d="M305.486364,389.466667 L255.931887,389.466667 C252.311372,389.466667 249.273104,386.724815 248.921991,383.120179 C245.723164,350.090919 217.805323,324.184475 183.946802,324.184475 C150.090046,324.184475 122.172205,350.090919 118.971613,383.120179 C118.622265,386.724815 115.582233,389.466667 111.961717,389.466667 L62.4072407,389.466667 C58.3897394,389.466667 55.1273942,386.112574 55.3549996,382.10213 C59.1854763,314.49448 115.400501,260.666667 183.946802,260.666667 C252.494868,260.666667 308.708128,314.49448 312.538605,382.10213 C312.766211,386.112574 309.503865,389.466667 305.486364,389.466667" id="Fill-1" fill="url(#linearGradient-9)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

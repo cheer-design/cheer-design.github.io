@@ -1,0 +1,1 @@
+System.register(["./FullLoading-legacy-90bd1623.js"],(function(e,t){"use strict";var n;return{setters:[function(e){n=e.j}],execute:function(){e("u",(function(){n((function(){var e=new URLSearchParams(location.search).get("anchor");if(e){var t=document.getElementById(e);t&&t.scrollIntoView()}}))}))}}}));

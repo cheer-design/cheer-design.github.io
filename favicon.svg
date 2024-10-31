@@ -1,0 +1,33 @@
+<svg id="组_8_拷贝" data-name="组 8 拷贝" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <style>
+            .cls-1, .cls-3 {
+            fill-rule: evenodd;
+            }
+
+            .cls-1 {
+            fill: url(#linear-gradient);
+            }
+
+            .cls-2 {
+            fill: #231f20;
+            }
+
+            .cls-3 {
+            fill: none;
+            stroke: #050505;
+            stroke-linecap: round;
+            stroke-width: 2px;
+            }
+        </style>
+        <linearGradient id="linear-gradient" x1="41.489" y1="110.812" x2="78.261" y2="9.781" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffd002"/>
+            <stop offset="0.993" stop-color="#fff244"/>
+            <stop offset="1" stop-color="#fff244"/>
+        </linearGradient>
+    </defs>
+    <path id="圆角矩形_2_拷贝" data-name="圆角矩形 2 拷贝" class="cls-1" d="M28.9,21.107l6.009,22.44c0.986,3.5.828,6.178-1.416,7.516a6.613,6.613,0,0,0-3.783,5.979V80.054a30.727,30.727,0,1,0,61.454,0V65.466a6.61,6.61,0,0,0-6.608-6.612l-5.98-1.044c-4.744-1.01-5.23-3.221-3.944-8.617l7.52-28.085A8.98,8.98,0,1,0,64.8,16.456L57.942,42.071c-1.576,4.943-3.179,4.834-4.891-.191L46.244,16.456A8.98,8.98,0,1,0,28.9,21.107Z"/>
+    <circle id="椭圆_1_拷贝_2" data-name="椭圆 1 拷贝 2" class="cls-2" cx="77.547" cy="76.125" r="1.547"/>
+    <circle id="椭圆_1_拷贝_6" data-name="椭圆 1 拷贝 6" class="cls-2" cx="66.891" cy="76.125" r="1.547"/>
+    <path id="形状_2" data-name="形状 2" class="cls-3" d="M74.625,85.677c-2.133,1.008-4.451.274-5.657-2.435"/>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="460px" viewBox="0 0 552 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Experience</title>
+    <defs>
+        <linearGradient x1="16.6989728%" y1="0%" x2="16.6989728%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87FFD3" offset="0%"></stop>
+            <stop stop-color="#03DB64" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.6829233%" y1="100%" x2="40.6829233%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#6C8FFF" offset="0%"></stop>
+            <stop stop-color="#19ACFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="49.7941497%" y2="96.0335769%" id="linearGradient-3">
+            <stop stop-color="#FFEB5E" offset="0%"></stop>
+            <stop stop-color="#FFC400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="40.6829233%" y1="100%" x2="40.6829233%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#6C8FFF" offset="0%"></stop>
+            <stop stop-color="#19ACFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.6989728%" y1="0%" x2="16.6989728%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FF9C00" offset="0%"></stop>
+            <stop stop-color="#FE5F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.6989728%" y1="0%" x2="16.6989728%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FF9C00" offset="0%"></stop>
+            <stop stop-color="#FE5F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="37.5%" x2="49.7941497%" y2="61.5083942%" id="linearGradient-7">
+            <stop stop-color="#FFC400" offset="0%"></stop>
+            <stop stop-color="#FFEB5E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="手机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="works-mobile" transform="translate(-99.000000, -378.000000)">
+            <g id="编组-6" transform="translate(99.000000, 378.000000)">
+                <rect id="矩形备份-11" x="0" y="0" width="552" height="460"></rect>
+                <g id="编组" transform="translate(69.000000, 29.133333)">
+                    <path d="M220.008603,139.13193 L299.324962,386.232895 C300.337726,389.388045 298.600979,392.766807 295.445829,393.779571 C294.853164,393.96981 294.234506,394.066667 293.612057,394.066667 L138.787943,394.066667 C135.474234,394.066667 132.787943,391.380375 132.787943,388.066667 C132.787943,387.444218 132.8848,386.82556 133.075038,386.232895 L212.391397,139.13193 C213.066573,137.028497 215.319081,135.870666 217.422515,136.545842 C218.651234,136.940245 219.6142,137.903211 220.008603,139.13193 Z" id="三角形" fill="url(#linearGradient-1)"></path>
+                    <circle id="椭圆形" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;" cx="216.2" cy="45.2333333" r="45.2333333"></circle>
+                    <g id="编组-3备份" transform="translate(329.177300, 280.487183) rotate(125.000000) translate(-329.177300, -280.487183) translate(305.410634, 256.720516)">
+                        <circle id="椭圆形备份-3" fill="url(#linearGradient-3)" cx="23.7666667" cy="23.7666667" r="23.7666667"></circle>
+                        <path d="M1.39455854e-12,23 C1.39455854e-12,36.5493859 10.6406991,47.5333333 23.7666667,47.5333333 C36.8926342,47.5333333 47.5333333,36.5493859 47.5333333,23 L1.39455854e-12,23 Z" id="路径" fill="url(#linearGradient-4)"></path>
+                    </g>
+                    <path d="M9.20451745,214.666667 C3.69371745,214.666667 -0.550549213,219.476733 0.0581841203,224.952267 C5.17185079,270.9216 44.1568508,306.666667 91.4893175,306.666667 C138.821784,306.666667 177.806784,270.9216 182.920451,224.952267 C183.529184,219.476733 179.284917,214.666667 173.774117,214.666667 L9.20451745,214.666667 Z" id="Fill-1" fill="url(#linearGradient-5)"></path>
+                    <path d="M216.017681,303.6 C210.598728,303.6 206.425199,308.329899 207.023787,313.714173 C212.052225,358.917351 250.387475,394.066667 296.931068,394.066667 C343.47466,394.066667 381.80991,358.917351 386.838349,313.714173 C387.436937,308.329899 383.263408,303.6 377.844454,303.6 L216.017681,303.6 Z" id="Fill-1备份-2" fill="url(#linearGradient-6)"></path>
+                    <path d="M313.053007,193.2 L280.616262,193.2 C277.597967,193.2 275.041311,190.922255 274.772267,187.922442 C272.090645,158.015301 246.844587,134.495238 216.2,134.495238 C185.555413,134.495238 160.309355,158.015301 157.627733,187.922442 C157.360159,190.922255 154.802033,193.2 151.785208,193.2 L119.346993,193.2 C115.931747,193.2 113.270708,190.305855 113.478005,186.902447 C116.749172,133.177316 161.570776,90.4666667 216.2,90.4666667 C270.829224,90.4666667 315.652299,133.177316 318.921995,186.902447 C319.129292,190.305855 316.468253,193.2 313.053007,193.2" id="Fill-1" fill="url(#linearGradient-7)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
